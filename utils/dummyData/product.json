@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Samsung Galaxy S23 Ultra",
+    "description": "High-end smartphone with Snapdragon 8 Gen 2, 200MP camera, and S Pen.",
+    "quantity": 100,
+    "sold": 20,
+    "price": 1400,
+    "priceAfterDiscount": 1300,
+    "imageCover": "https://example.com/images/s23ultra.jpg",
+    "images": [
+      "https://example.com/images/s23-1.jpg",
+      "https://example.com/images/s23-2.jpg"
+    ],
+    "colors": ["Black", "Green", "Lavender"],
+    "category": "679d56e8484fadbc9ca6f45e",
+    "subCategories": ["679d5726484fadbc9ca6f460", "679eb339bba819f8d44eb054"],
+    "brand": "679d56e8484fadbc9ca6f45e",
+    "ratingAverage": 4.9,
+    "ratingsQuantity": 200
+  },
+  {
+    "name": "MacBook Pro 16-inch",
+    "description": "Powerful laptop with M2 Max chip, Liquid Retina XDR display, and long battery life.",
+    "quantity": 30,
+    "sold": 5,
+    "price": 2500,
+    "priceAfterDiscount": 2300,
+    "imageCover": "https://example.com/images/macbookpro16.jpg",
+    "images": [
+      "https://example.com/images/macbook16-1.jpg",
+      "https://example.com/images/macbook16-2.jpg"
+    ],
+    "colors": ["Silver", "Space Gray"],
+    "category": "679d56e8484fadbc9ca6f45e",
+    "subCategories": ["679d5726484fadbc9ca6f460", "679eb339bba819f8d44eb054"],
+    "brand": "679d56e8484fadbc9ca6f45e",
+    "ratingAverage": 4.8,
+    "ratingsQuantity": 120
+  },
+  {
+    "name": "Sony WH-1000XM5 Headphones",
+    "description": "Premium noise-canceling headphones with industry-leading sound quality and comfort.",
+    "quantity": 80,
+    "sold": 15,
+    "price": 400,
+    "priceAfterDiscount": 350,
+    "imageCover": "https://example.com/images/sonywh1000xm5.jpg",
+    "images": [
+      "https://example.com/images/sony1000xm5-1.jpg",
+      "https://example.com/images/sony1000xm5-2.jpg"
+    ],
+    "colors": ["Black", "Silver"],
+    "category": "679d56e8484fadbc9ca6f45e",
+    "subCategories": ["679d5726484fadbc9ca6f460", "679eb339bba819f8d44eb054"],
+    "brand": "679d56e8484fadbc9ca6f45e",
+    "ratingAverage": 4.7,
+    "ratingsQuantity": 300
+  },
+
+  {
+    "name": "Samsung Galaxy S24 Ultra",
+    "description": "The latest Samsung flagship with Snapdragon 8 Gen 3, 200MP camera, and S-Pen support.",
+    "quantity": 40,
+    "sold": 8,
+    "price": 1300,
+    "priceAfterDiscount": 1200,
+    "imageCover": "https://example.com/images/s24ultra.jpg",
+    "images": [
+      "https://example.com/images/s24-1.jpg",
+      "https://example.com/images/s24-2.jpg"
+    ],
+    "colors": ["Phantom Black", "Silver", "Green"],
+    "category": "679d56e8484fadbc9ca6f45e",
+    "subCategories": ["679d5726484fadbc9ca6f460", "679eb339bba819f8d44eb054"],
+    "brand": "679d56e8484fadbc9ca6f45e",
+    "ratingAverage": 4.7,
+    "ratingsQuantity": 180
+  },
+  {
+    "name": "MacBook Pro 16 M3 Max",
+    "description": "Powerful MacBook with M3 Max chip, 120Hz ProMotion display, and all-day battery life.",
+    "quantity": 25,
+    "sold": 5,
+    "price": 2500,
+    "priceAfterDiscount": 2400,
+    "imageCover": "https://example.com/images/macbookpro16.jpg",
+    "images": [
+      "https://example.com/images/macbook16-1.jpg",
+      "https://example.com/images/macbook16-2.jpg"
+    ],
+    "colors": ["Space Gray", "Silver"],
+    "category": "679d56e8484fadbc9ca6f45e",
+    "subCategories": ["679d5726484fadbc9ca6f460", "679eb339bba819f8d44eb054"],
+    "brand": "679d56e8484fadbc9ca6f45e",
+    "ratingAverage": 4.9,
+    "ratingsQuantity": 220
+  },
+  {
+    "name": "Sony WH-1000XM5 Headphones",
+    "description": "Industry-leading noise-canceling wireless headphones with up to 30 hours of battery life.",
+    "quantity": 60,
+    "sold": 10,
+    "price": 400,
+    "priceAfterDiscount": 350,
+    "imageCover": "https://example.com/images/sonywh1000xm5.jpg",
+    "images": [
+      "https://example.com/images/sonywh1000xm5-1.jpg",
+      "https://example.com/images/sonywh1000xm5-2.jpg"
+    ],
+    "colors": ["Black", "Silver"],
+    "category": "679d56e8484fadbc9ca6f45e",
+    "subCategories": ["679d5726484fadbc9ca6f460", "679eb339bba819f8d44eb054"],
+    "brand": "679d56e8484fadbc9ca6f45e",
+    "ratingAverage": 4.8,
+    "ratingsQuantity": 300
+  },
+  {
+    "name": "Dell XPS 15 Laptop",
+    "description": "High-performance laptop with Intel Core i9, NVIDIA RTX 4060, and a 4K OLED display.",
+    "quantity": 30,
+    "sold": 6,
+    "price": 2200,
+    "priceAfterDiscount": 2100,
+    "imageCover": "https://example.com/images/dellxps15.jpg",
+    "images": [
+      "https://example.com/images/dellxps15-1.jpg",
+      "https://example.com/images/dellxps15-2.jpg"
+    ],
+    "colors": ["Platinum Silver", "Black"],
+    "category": "679d56e8484fadbc9ca6f45e",
+    "subCategories": ["679d5726484fadbc9ca6f460", "679eb339bba819f8d44eb054"],
+    "brand": "679d56e8484fadbc9ca6f45e",
+    "ratingAverage": 4.6,
+    "ratingsQuantity": 175
+  },
+  {
+    "name": "iPad Pro 12.9 M2",
+    "description": "Apple's most advanced tablet with M2 chip, Liquid Retina XDR display, and Apple Pencil 2 support.",
+    "quantity": 35,
+    "sold": 7,
+    "price": 1400,
+    "priceAfterDiscount": 1300,
+    "imageCover": "https://example.com/images/ipadpro12.jpg",
+    "images": [
+      "https://example.com/images/ipadpro12-1.jpg",
+      "https://example.com/images/ipadpro12-2.jpg"
+    ],
+    "colors": ["Silver", "Space Gray"],
+    "category": "679d56e8484fadbc9ca6f45e",
+    "subCategories": ["679d5726484fadbc9ca6f460", "679eb339bba819f8d44eb054"],
+    "brand": "679d56e8484fadbc9ca6f45e",
+    "ratingAverage": 4.9,
+    "ratingsQuantity": 190
+  },
+  {
+    "name": "Logitech MX Master 3S",
+    "description": "Ergonomic wireless mouse with ultra-fast scrolling and precise sensor for productivity.",
+    "quantity": 80,
+    "sold": 15,
+    "price": 100,
+    "priceAfterDiscount": 90,
+    "imageCover": "https://example.com/images/logitechmxmaster3.jpg",
+    "images": [
+      "https://example.com/images/logitechmx-1.jpg",
+      "https://example.com/images/logitechmx-2.jpg"
+    ],
+    "colors": ["Graphite", "Pale Gray"],
+    "category": "679d56e8484fadbc9ca6f45e",
+    "subCategories": ["679d5726484fadbc9ca6f460", "679eb339bba819f8d44eb054"],
+    "brand": "679d56e8484fadbc9ca6f45e",
+    "ratingAverage": 4.8,
+    "ratingsQuantity": 250
+  },
+  {
+    "name": "GoPro Hero 12 Black",
+    "description": "Waterproof action camera with 5.3K video recording and advanced stabilization.",
+    "quantity": 55,
+    "sold": 12,
+    "price": 500,
+    "priceAfterDiscount": 450,
+    "imageCover": "https://example.com/images/goprohero12.jpg",
+    "images": [
+      "https://example.com/images/gopro12-1.jpg",
+      "https://example.com/images/gopro12-2.jpg"
+    ],
+    "colors": ["Black"],
+    "category": "679d56e8484fadbc9ca6f45e",
+    "subCategories": ["679d5726484fadbc9ca6f460", "679eb339bba819f8d44eb054"],
+    "brand": "679d56e8484fadbc9ca6f45e",
+    "ratingAverage": 4.7,
+    "ratingsQuantity": 220
+  },
+  {
+    "name": "Amazon Echo Dot 5th Gen",
+    "description": "Smart speaker with Alexa, improved sound quality, and voice assistant features.",
+    "quantity": 90,
+    "sold": 20,
+    "price": 60,
+    "priceAfterDiscount": 50,
+    "imageCover": "https://example.com/images/echodot5.jpg",
+    "images": [
+      "https://example.com/images/echodot5-1.jpg",
+      "https://example.com/images/echodot5-2.jpg"
+    ],
+    "colors": ["Black", "White", "Blue"],
+    "category": "679d56e8484fadbc9ca6f45e",
+    "subCategories": ["679d5726484fadbc9ca6f460", "679eb339bba819f8d44eb054"],
+    "brand": "679d56e8484fadbc9ca6f45e",
+    "ratingAverage": 4.6,
+    "ratingsQuantity": 310
+  }
+]
