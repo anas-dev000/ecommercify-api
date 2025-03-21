@@ -4,9 +4,7 @@ const asyncHandler = require("express-async-handler");
 const ApiError = require("../utils/apiError");
 const User = require("../models/userModel");
 const sendEmail = require("../utils/sendEmail");
-const {createToken} = require("../utils/createToken");
-
-
+const { createToken } = require("../utils/createToken");
 
 const signUp = asyncHandler(async (req, res) => {
   const newUser = await User.create(req.body);

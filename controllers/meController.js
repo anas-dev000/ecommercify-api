@@ -3,7 +3,7 @@ const asyncHandler = require("express-async-handler");
 const { createToken } = require("../utils/createToken");
 const User = require("../models/userModel");
 
-// # My Data Controllers
+// # Profile Data Controllers
 const getMyData = (req, res, next) => {
   req.params.id = req.user._id;
   next();
@@ -34,7 +34,7 @@ const updateMyPassword = asyncHandler(async (req, res, next) => {
   res.status(200).json({ token });
 });
 
-// # My Addresses Controllers
+// # Profile Addresses Controllers
 const getMyAddresses = asyncHandler(async (req, res) => {
   const user = await User.findById(req.user._id).populate("addresses");
 

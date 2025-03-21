@@ -12,32 +12,15 @@ const uploadBrandImage = uploadSingleImage("image");
 // Image processing
 const resizeBrandImage = resizeImage("image", "brands");
 
-// @DESC Create a new brand
-// @route Post /api/brands
-// @access Private
+// Basic Routes (CRUD)
 
 const createBrand = handlersController.createOne(Brand);
 
-// @DESC Get all brands
-// @route Get /api/brands
-// @access Public
-
 const getAllBrands = handlersController.getAll(Brand);
-// @DESC Get specific brand
-// @route Get /api/brands/:id
-// @access Private
 
 const getBrandById = handlersController.getOne(Brand);
 
-// @DESC Update specific brand
-// @route Put /api/brands/:id
-// @access Private
-
 const updateBrand = handlersController.updateOne(Brand);
-
-// @DESC Delete specific brand
-// @route Delete /api/brands/:id
-// @access Private
 
 const deleteBrand = handlersController.deleteOne(Brand);
 
